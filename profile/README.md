@@ -30,4 +30,4 @@ We have two main repositories:
 
 ## 💚 Community
 
-Come join our [Discord](https://link.caido.io/www-discord) community and connect with other Caido users! We'd love to have you as part of the conversation and help with any questions you may have.
+Come join our [Discord](https://links.caido.io/www-discord) community and connect with other Caido users! We'd love to have you as part of the conversation and help with any questions you may have.
