@@ -18,7 +18,7 @@ Welcome to Caido!
 
 Caido aims to help security professionals and enthusiasts audit web applications with efficiency and ease.
 
-Here you can find our open-source code and get involved with the development of our software.
+Here you can get involved with the development of our software.
 
 ## 🎁 Repositories
 
