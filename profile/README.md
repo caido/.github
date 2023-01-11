@@ -20,6 +20,8 @@ Caido aims to help security professionals and enthusiasts audit web applications
 
 Here you can get involved with the development of our software.
 
+You can learn about upcoming Caido features on our [Roadmap](https://links.caido.io/roadmap). We try to release a new version at least once a month, which you can find in our [releases section](https://github.com/caido/caido/releases) or in your [Caido Dashboard](https://dashboard.caido.io).
+
 ## 🎁 Repositories
 
 We have two main repositories:
