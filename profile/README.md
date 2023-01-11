@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Caido</h1>
+  <img width="1000" alt="image" src="https://user-images.githubusercontent.com/6225588/211916659-567751d1-0225-402b-9141-4145c18b0834.png">
 
+  <br />
   <br />
   <a href="https://caido.io/">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
