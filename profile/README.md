@@ -24,11 +24,15 @@ You can learn about upcoming Caido features on our [Roadmap](https://links.caido
 
 ## 🎁 Repositories
 
-We have two main repositories:
+We have a couple of important repositories:
 
 [caido/caido](https://github.com/caido/caido): Create and upvote issues to be worked on by the Caido team! This is a great place to report bugs, request new features, and get involved in the development of Caido.
 
 [caido/documentation](https://github.com/caido/documentation): A community-maintained resource for all Caido documentation, open for contributions! Feel free to check our guidelines and start helping us make Caido better!
+
+[caido/awesome](https://github.com/caido/awesome): A curated list of awesome Caido related projects that will help elevate your Caido experience!
+
+[caido/workflows](https://github.com/caido/workflows): A community-lead repository of useful Workflows that you can use in your own Instance!
 
 ## 💚 Community
 
